@@ -1,7 +1,9 @@
 # Class Group Assignment - To-Do WordPress Plugin
 
 ## Description
-This project is a class group assignment for [Course Name]. We are developing a To-Do WordPress Plugin that will help users effectively manage their tasks within the WordPress environment. The plugin will allow users to create multiple to-do lists, add tasks with due dates, priorities, and categories, and track their progress. This plugin is being developed as part of our coursework to showcase our skills in WordPress development and teamwork.
+This project is a class group assignment for PHP Mentorship Class with Coach David Wampamba. 
+We are developing a To-Do WordPress Plugin that will help users effectively manage their tasks within the WordPress environment. 
+The plugin will allow users to create multiple to-do lists, add tasks with due dates, priorities, and categories, and track their progress. This plugin is being developed as part of our coursework to showcase our skills in WordPress development and teamwork.
 
 ## Team Members
 - [Caroline Maurene](https://github.com/Jadamoureen)
