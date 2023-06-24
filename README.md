@@ -9,7 +9,7 @@ The plugin will allow users to create multiple to-do lists, add tasks with due d
 - [Caroline Maurene](https://github.com/Jadamoureen)
 - [David Derrick Anyuru](https://github.com/ANYURU)
 - [Fanny Nyayic](https://github.com/Nyayic)
-- [Henry Onyango](https://github.com/member2)
+- [Henry Onyango](https://github.com/MROH)
 - [Peter Bulafu](https://github.com/techlogug)
 
 ## User Stories
