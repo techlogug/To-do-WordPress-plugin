@@ -8,7 +8,7 @@ The plugin will allow users to create multiple to-do lists, add tasks with due d
 ## Team Members
 - [Caroline Maurene](https://github.com/Jadamoureen)
 - [David Derrick Anyuru](https://github.com/ANYURU)
-- [Fanny Nyaic](https://github.com/Nyayic)
+- [Fanny Nyayic](https://github.com/Nyayic)
 - [Henry Onyango](https://github.com/member2)
 - [Peter Bulafu](https://github.com/techlogug)
 
